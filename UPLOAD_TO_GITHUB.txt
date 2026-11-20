@@ -1,0 +1,8 @@
+HUONG DAN TAI PORTFOLIO LEN GITHUB
+
+1. Tai file ZIP nay ve may va giai nen.
+2. Tren GitHub, tao repository moi va chon Private.
+3. Trong repository, chon Add file > Upload files. Keo TOAN BO NOI DUNG ben trong thu muc da giai nen vao trang upload: index.html, README.md, .nojekyll, assets va files. Dung tai nguyen file ZIP.
+4. Chon Commit changes. Kiem tra index.html nam ngay o thu muc goc cua repository.
+
+Neu muon xuat ban website qua GitHub Pages, chi bat sau khi da ra soat PDF/Excel duoc phep cong khai; chon Settings > Pages > Deploy from a branch > main > / (root). Khi do khach truy cap website co the mo cac tai lieu trong files/.
